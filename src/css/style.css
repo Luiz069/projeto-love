@@ -3,10 +3,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Pangolin&display=swap");
 
 @import url("/src/css/inicio.css");
-@import url("jogo.css");
-@import url("home.css");
-@import url("menu.css");
-@import url("style-listas/lista.css");
+@import url("/src/css/jogo.css");
+@import url("/src/css/home.css");
+@import url("/src/css/menu.css");
+@import url("/src/css/style-listas/lista.css");
 
 body {
   /* background-image: url(../img/plano-de-fundo/fundo-novo.svg); */
