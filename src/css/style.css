@@ -10,7 +10,7 @@
 
 body {
   /* background-image: url(../img/plano-de-fundo/fundo-novo.svg); */
-  background-image: url(/src/img/plano-de-fundo/botas01.png);
+  background-image: url(../img/plano-de-fundo/botas01.png);
   /* background-size: 100vh; */
   /* position: fixed; */
 }
