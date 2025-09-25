@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Pangolin&display=swap");
 
-@import url("inicio.css");
+@import url("/src/css/inicio.css");
 @import url("jogo.css");
 @import url("home.css");
 @import url("menu.css");
@@ -10,7 +10,7 @@
 
 body {
   /* background-image: url(../img/plano-de-fundo/fundo-novo.svg); */
-  background-image: url(../img/plano-de-fundo/botas01.png);
+  background-image: url("/src/img/plano-de-fundo/botas01.png");
   /* background-size: 100vh; */
   /* position: fixed; */
 }
